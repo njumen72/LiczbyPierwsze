@@ -1,0 +1,2 @@
+Liczby pierwsze z zakresu od:  56 do:  58
+W podanym zakresie brak liczb pierwszych
